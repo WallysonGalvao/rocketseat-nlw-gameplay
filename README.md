@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="NextLevelWeekTogether" title="#nextlevelweek" src=".github/nlw-logo.png"  />
+    <img alt="NextLevelWeekTogether" title="#nextlevelweek" src=".github/nlw-logo.png" width="250px" />
 </h1>
 
 <h1 align="center">
-    <img alt="GamePlay" title="#delicinha" src=".github/logo.svg" width="250px" />
+    <img alt="GamePlay" title="#delicinha" src=".github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -56,6 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :notebook: Executando
 
 ### Frontend
+
 ```bash
 # Clone este repositório
 $ git clone https://github.com/WallysonGalvao/rocketseat-nlw-gameplay.git
